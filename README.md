@@ -1,5 +1,19 @@
 # Arduino_DS1603L
+
 Arduino library for the DS1603L ultrasound sensor.
+
+![DS1603L sensor](https://github.com/wvmarle/Arduino_DS1603L/blob/master/DS1603L.jpg)
+
+Wiring:
+
+Red: Vcc
+
+Black: GND
+
+Yellow: Tx
+
+White: Rx
+
 
 Tested on Arduino Pro Mini, expected to work on any other processor that offers a Serial type interface.
 
